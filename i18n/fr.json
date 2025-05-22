@@ -1,0 +1,11 @@
+{
+  "debug-section.text": "Journalisation du débogage",
+  "enabled.name": "Activé",
+  "debug-enabled.tooltip": "Permet de montrer les informations de débogage dans la console de SMAPI. Désactivé par défaut.",
+  "crane-game-section.text": "Paramètres de la machine",
+  "cost.name": "Coût de la machine à pince",
+  "cost.tooltip": "Paramètre le coût par partie pour le jeu de la machine à pince, dans le cinéma. Par défaut : 500",
+  "start-play-cost.text": "PO pour jouer. Commencer ?",
+  "start-play-free.text": "Gratuit. Commencer ?",
+  "lost-and-found-question": "Ouvrir les objets perdus ?"
+}
